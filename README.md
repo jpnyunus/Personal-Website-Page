@@ -6,7 +6,7 @@ Welcome to my personal website! This project is built using React, Tailwind CSS 
 
 ## Demo
 
-Check out the live demo [here](https://your-website-url.com).
+Check out the live demo [here](https://personal-website-page.vercel.app/).
 
 ## Installation
 
